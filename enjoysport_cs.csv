@@ -1,0 +1,5 @@
+Sky,AirTemp,Humidity,Wind,Water,Forecast,enjoysport
+sunny,warm,Normal,Strong,warm,same,yes
+sunny,warm,High,Strong,warm,same,yes
+rainy,cold,High,Strong,warm,change,no
+sunny,warm,High,Strong,cold,change,yes
